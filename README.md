@@ -1,2 +1,1 @@
-# lanyuan-notebook-3.1v
-蓝缘3.1v版本　官网 www.lanyuanoss.com
+Asteria 轻量级框架,适合小项目Demo展示使用
